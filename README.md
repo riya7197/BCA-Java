@@ -3,6 +3,8 @@ Create an Employee class having data members' Name, Eid, and Basic_Salary, to ca
   a) Display the name and gross salary of an employee whose name starts With 'n'
   b).Display the Eid and gross salary whose Eid is equal to 107.
   c)  Count the total number of employees whose salary more than 20000/-
+
+Answer :-
 1. Super Keyword:
    - The super keyword in Java is used to refer to immediate parent class members (fields and methods). It is especially useful in cases of method overriding to differentiate between superclass and subclass methods.
    
